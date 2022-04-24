@@ -48,12 +48,12 @@ After adjustment for the ninth grade scores and replacement with NaN, the overal
     
 **Scores by School Size**
     
-      <p align="center">
+<p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Size.png" />
     
 Scores by school Type**
 
-          <p align="center">
+<p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Charter:Public.png" />
       
       Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
