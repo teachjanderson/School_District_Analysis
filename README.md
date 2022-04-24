@@ -42,7 +42,7 @@ After adjustment for the ninth grade scores and replacement with NaN, the overal
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Screen%20Shot%202022-04-23%20at%2010.02.51%20PM.png" width="600" />
 
 **Scores by School Spending**
-Based on school spending, a pattern does emerge that a certain spending amount could correlate with higher scores. This could prove worth greater analysis.
+Based on school spending, a pattern does emerge that a certain spending amount could correlate with higher scores. This could prove worth greater analysis. However, making adjustments for the scores of the 9th graders had no impact on the metrics in the charts below. This is potentially due to the small sample size (461) compared to the overall student population (nearly 40,000). 
   
 <p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Money.png" />
@@ -56,8 +56,6 @@ Similar to school spending, the size and type of the school shows differences in
 <p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Charter:Public.png" />
       
-      Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
 ## Closing Summary ##
-Results: There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary: There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+  
+Four take aways are worth noting in the final, adjusted analysis. First, this set of data will now show NaN for all 9th grade scores at Thomas High School. Second, the overall passing rate for Thomas High School changed dramtically once the 9th grade scores were removed, but evaluating them based on the 10th-12th grade students seemed a proper adjustment. Thomas High School is now ranked similar to many schools in the district. Third, while Thomas High did see some changes in numbers, many of its metrics did not change and its overall scores in math and reading for 10th-12th were well above the 70% threshold. Finally, removal of the 9th grade scores at Thomas High School did not alter the overall district data to a substantial amount (less than 1% in the key indicators). This should provide confidence in the overall fidelity of the district for this set of data. 
