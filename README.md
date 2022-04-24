@@ -61,7 +61,7 @@ Similar to school spending, the size and type of the school shows differences in
       
 ## Closing Summary ##
   
-Four take aways are worth noting in the final, adjusted analysis. 
+Four take aways are worth noting in the final, adjusted analysis:
   - First, this set of data will now show NaN for all 9th grade scores at Thomas High School. 
   - Second, the overall passing rate for Thomas High School changed dramtically once the 9th grade scores were removed, but evaluating them based on the 10th-12th grade students returned the schools numbers similar to before the change. Thomas High School is now ranked similar or better than many schools in the district. 
   - Third, while Thomas High did see changes in performance, many of its metrics did not significantly change and its overall scores in math and reading (10th-12th grades) were well above the 70% threshold. 
