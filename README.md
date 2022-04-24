@@ -8,12 +8,12 @@ The original analysis included a variety of data as scene below:
 
 ## District Summary ##
 <p align="center">
-<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/A_District%20Summary.png" width="600" />
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/A_District%20Summary.png" />
   
 This analysis included 39,170 students in the PyCity School District. The School Board requested the values of tests for 9th graders at Thomas High School be made NaN to determine more accurate results of the overall data. Thomas High School includes 1,635 students and of those 461 are 9th graders. The impact of not including these scores can be seen below:
 
 <p align="center">
-<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/B_DistrictSummary.png" width="600" />
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/B_DistrictSummary.png" />
 
 In comparing the two outputs, the removal of 461 students did not have a major impact on overall scores. When rounding to the nearest whole, the data remains intact relatively the same. Therefore, the conclusion is made the scores of 9th graders at Thomas High School does not have a significant impact on the overall scores of the district in this dataset. 
   
