@@ -42,21 +42,22 @@ After adjustment for the ninth grade scores and replacement with NaN, the overal
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Screen%20Shot%202022-04-23%20at%2010.02.51%20PM.png" width="600" />
 
 **Scores by School Spending**
- 
+Based on school spending, a pattern does emerge that a certain spending amount could correlate with higher scores. This could prove worth greater analysis.
+  
 <p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Money.png" />
     
-**Scores by School Size**
-    
+**Scores by School Size and Type**
+Similar to school spending, the size and type of the school shows differences in student test performance as illusrated in the outputs below. 
+  
 <p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Size.png" />
-    
-**Scores by school Type**
 
 <p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Charter:Public.png" />
       
       Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
+## Closing Summary ##
 Results: There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 Summary: There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
