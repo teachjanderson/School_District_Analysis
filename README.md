@@ -51,7 +51,7 @@ After adjustment for the ninth grade scores and replacement with NaN, the overal
 <p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Size.png" />
     
-Scores by school Type**
+**Scores by school Type**
 
 <p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Charter:Public.png" />
