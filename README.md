@@ -32,7 +32,17 @@ To obtain a more accurate representation of passing scores at Thomas High School
   
   <p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/Adjust_PerSchool.png" />
+    
+**Top 5 Schools by Overall Passing**
+
+   <p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Schools_head.png" />
+    
+**Bottom 5 Schools by Overall Passing**
   
+   <p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Shools_tail.png" />
+     
 ## Adjustments and Scores by Type ##
 
 **Scores by Grade Level**
