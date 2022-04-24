@@ -21,20 +21,42 @@ In comparing the two outputs, the removal of 461 students did not have a major i
 Adjusting the scores of the 9th graders has an impact on the overall performance of Thomas High School. In the initial analysis, as seen below, the overall scores of Thomas High School were quite high comparative to other schools. 
   
 <p align="center">
-<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/C_PerSchool.png" />
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/A_Adjust_PerSchool.png" />
   
-Once adjusted without the 9th grade scores had a dramatic change on the overall scores for Thomas High school. 
+Once adjusted, the change in the 9th grade scores had a dramatic change on the overall scores for Thomas High school. 
+
 <p align="center">
 <img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/A_PerSchool.png" />
   
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Recalculating with NaN scores for the 9th grades and using the 10th-12th grade scores returns Thomas High School closer to it's initial set of scores and makes minimal impact on the overall scores of the district. This is in large part to the small set of data (461 students) out of the nearly 40,000 students overall. In relation to other shcools, replacing the 9th grade scores puts Thomas High School in a more competitive range with scores being very high in the district. More on this subset of data is below. 
+  
+  <p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/Adjust_PerSchool.png" />
+  
+## Adjustments and Scores by Type ##
+
+**Scores by Grade Level**
+After adjustment for the ninth grade scores and replacement with NaN, the overall caclulations by school and grade can be seen below. Thomas High Schools falls similar in range to the other schools. 
+  
+<p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Screen%20Shot%202022-04-23%20at%2010.02.51%20PM.png" width="600" />
+
+**Scores by School Spending**
+ 
+<p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Money.png" />
+    
+**Scores by School Size**
+    
+      <p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Size.png" />
+    
+Scores by school Type**
+
+          <p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/Charter:Public.png" />
+      
+      Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 Results: There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 Summary: There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
