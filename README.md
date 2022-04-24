@@ -17,7 +17,16 @@ This analysis included 39,170 students in the PyCity School District. The School
 
 In comparing the two outputs, the removal of 461 students did not have a major impact on overall scores. When rounding to the nearest whole, the data remains intact relatively the same. Therefore, the conclusion is made the scores of 9th graders at Thomas High School does not have a significant impact on the overall scores of the district in this dataset. 
   
-
+## School Summary ##
+Adjusting the scores of the 9th graders has an impact on the overall performance of Thomas High School. In the initial analysis, as seen below, the overall scores of Thomas High School were quite high comparative to other schools. 
+  
+<p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/C_PerSchool.png" />
+  
+Once adjusted without the 9th grade scores had a dramatic change on the overall scores for Thomas High school. 
+<p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/A_PerSchool.png" />
+  
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
